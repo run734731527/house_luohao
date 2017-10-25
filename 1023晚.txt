@@ -1,0 +1,7 @@
+
+使用的时机和作用
+@Valid
+@RequestBody
+@ExceptionHandler({ Exception.class })
+
+user.setIpAddress(request.getRemoteAddr());这个得到的结果是什么？
